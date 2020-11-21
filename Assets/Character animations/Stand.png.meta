@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: 6d18085c6761be4498b16ef433d91383
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5329819244849114781
+    second: Symbol 1 copy 20001
+  - first:
+      213: -826401630724242063
+    second: Symbol 1 copy 20002
+  - first:
+      213: 1098955852466767285
+    second: Symbol 1 copy 20003
+  - first:
+      213: -4122543962201998207
+    second: Symbol 1 copy 20004
+  - first:
+      213: 6515443906614497836
+    second: Symbol 1 copy 20005
+  - first:
+      213: 1912425087837114186
+    second: Symbol 1 copy 20006
+  - first:
+      213: -6251491809139204008
+    second: Symbol 1 copy 20007
+  - first:
+      213: -4778242446592767915
+    second: Symbol 1 copy 20008
+  - first:
+      213: 1521233496944205018
+    second: Symbol 1 copy 20009
+  - first:
+      213: 5138206683595814533
+    second: Symbol 1 copy 20010
+  - first:
+      213: 4489583844997238769
+    second: Symbol 1 copy 20011
+  - first:
+      213: -774169474534752931
+    second: Symbol 1 copy 20012
+  - first:
+      213: 3659368367861437314
+    second: Symbol 1 copy 20013
+  - first:
+      213: 7666402875776589590
+    second: Symbol 1 copy 20014
+  - first:
+      213: -2252900821326735961
+    second: Symbol 1 copy 20015
+  - first:
+      213: 7785161442524945740
+    second: Symbol 1 copy 20016
+  - first:
+      213: 5209501022647595756
+    second: Symbol 1 copy 20017
+  - first:
+      213: 529368643881297539
+    second: Symbol 1 copy 20018
+  - first:
+      213: 683156747311915150
+    second: Symbol 1 copy 20019
+  - first:
+      213: -297371706010566725
+    second: Symbol 1 copy 20020
+  - first:
+      213: -4513100939913013229
+    second: Symbol 1 copy 20021
+  - first:
+      213: -239062466456110432
+    second: Symbol 1 copy 20022
+  - first:
+      213: 6195464873796980534
+    second: Symbol 1 copy 20023
+  - first:
+      213: -1980276755538698165
+    second: Symbol 1 copy 20024
+  - first:
+      213: 8417964211606589890
+    second: Symbol 1 copy 20025
+  - first:
+      213: -7784149956689574234
+    second: Symbol 1 copy 20026
+  - first:
+      213: 1484596339623688700
+    second: Symbol 1 copy 20027
+  - first:
+      213: 671040643137166214
+    second: Symbol 1 copy 20028
+  - first:
+      213: 3749356013762618510
+    second: Symbol 1 copy 20029
+  - first:
+      213: -8644283953847687656
+    second: Symbol 1 copy 20030
+  - first:
+      213: -8957545452190645927
+    second: Symbol 1 copy 20031
+  - first:
+      213: 1540918346140056519
+    second: Symbol 1 copy 20032
+  - first:
+      213: -90610767380133694
+    second: Symbol 1 copy 20033
+  - first:
+      213: 7825442532211716470
+    second: Symbol 1 copy 20034
+  - first:
+      213: -2328140324572196738
+    second: Symbol 1 copy 20035
+  - first:
+      213: 687540934998513611
+    second: Symbol 1 copy 20036
+  - first:
+      213: 7468747728008353401
+    second: Symbol 1 copy 20037
+  - first:
+      213: 2814077325271461780
+    second: Symbol 1 copy 20038
+  - first:
+      213: 2128510024383029413
+    second: Symbol 1 copy 20039
+  - first:
+      213: 3897717276676303084
+    second: Symbol 1 copy 20040
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Symbol 1 copy 20001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 455
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ea5465d5257f940800000000000000
+      internalID: 5329819244849114781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20002
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 455
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175c0e668180884f0800000000000000
+      internalID: -826401630724242063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20003
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 455
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54e1a7686404f00800000000000000
+      internalID: 1098955852466767285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20004
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 455
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cb40acb18c9c6c0800000000000000
+      internalID: -4122543962201998207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20005
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 455
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c229db776b18b6a50800000000000000
+      internalID: 6515443906614497836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f83142c7c4a8a10800000000000000
+      internalID: 1912425087837114186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20007
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 397
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506ef7425d3e39a0800000000000000
+      internalID: -6251491809139204008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20008
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 397
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580520afc540bdb0800000000000000
+      internalID: -4778242446592767915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20009
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 397
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcd8cd3ec18c1510800000000000000
+      internalID: 1521233496944205018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20010
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 397
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586344e51c39e4740800000000000000
+      internalID: 5138206683595814533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff846e58b43e4e30800000000000000
+      internalID: 4489583844997238769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20012
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 339
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db762f6f89145f0800000000000000
+      internalID: -774169474534752931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20013
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 339
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2839ea47420b8c230800000000000000
+      internalID: 3659368367861437314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20014
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 339
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f52b31cc8846a60800000000000000
+      internalID: 7666402875776589590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20015
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 339
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a552aea3a61cb0e0800000000000000
+      internalID: -2252900821326735961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d54cc95137a0c60800000000000000
+      internalID: 7785161442524945740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20017
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 281
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2b1f7349ddb4840800000000000000
+      internalID: 5209501022647595756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20018
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 281
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38666c51af1b85700800000000000000
+      internalID: 529368643881297539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20019
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 281
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e802071317f0b7900800000000000000
+      internalID: 683156747311915150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20020
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 281
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbffcf842068fdbf0800000000000000
+      internalID: -297371706010566725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318d0094b9e3e51c0800000000000000
+      internalID: -4513100939913013229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa31cf04fdaeacf0800000000000000
+      internalID: -239062466456110432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f441d4a76baf550800000000000000
+      internalID: 6195464873796980534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20024
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40272568c4a484e0800000000000000
+      internalID: -1980276755538698165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20025
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 223
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c113c4a9dd92d470800000000000000
+      internalID: 8417964211606589890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20026
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 223
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a645294bd429f390800000000000000
+      internalID: -7784149956689574234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20027
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 223
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf97d1251885a9410800000000000000
+      internalID: 1484596339623688700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20028
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 339
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5a0cd8e3005900800000000000000
+      internalID: 671040643137166214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20029
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 223
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84abc8fd63680430800000000000000
+      internalID: 3749356013762618510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20030
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 165
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816ac491b85590880800000000000000
+      internalID: -8644283953847687656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20031
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951c2ceced760b380800000000000000
+      internalID: -8957545452190645927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20032
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb7f895211726510800000000000000
+      internalID: 1540918346140056519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20033
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 165
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c84b75bcf51ebef0800000000000000
+      internalID: -90610767380133694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20034
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 397
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67176b6a58e899c60800000000000000
+      internalID: 7825442532211716470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20035
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 165
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e709c96b5b8c0bfd0800000000000000
+      internalID: -2328140324572196738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20036
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7502f66d2aa8900800000000000000
+      internalID: 687540934998513611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20037
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 107
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97691fccc7256a760800000000000000
+      internalID: 7468747728008353401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20038
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 49
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f694fea6c9d0720800000000000000
+      internalID: 2814077325271461780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20039
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 107
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a06530079cf98d10800000000000000
+      internalID: 2128510024383029413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Symbol 1 copy 20040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 455
+        width: 41
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8a13f4639771630800000000000000
+      internalID: 3897717276676303084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

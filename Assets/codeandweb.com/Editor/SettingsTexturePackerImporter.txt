@@ -1,0 +1,18 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Character animations/Ahead.tpsheet
+- Assets/Character animations/Backwards.tpsheet
+- Assets/Character animations/idle.tpsheet
+- Assets/Character animations/walk.tpsheet
+textureFileNames:
+- Assets/Character animations/Ahead.png
+- Assets/Character animations/Backwards.png
+- Assets/Character animations/Stand.png
+- Assets/Character animations/Left.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
