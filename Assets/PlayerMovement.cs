@@ -2,49 +2,49 @@
 
 public class PlayerMovement : MonoBehaviour
 {
-    CharacterController cc;
+    Rigidbody2D rb;
     public Animator animator;
-    float speedModifier = 3f;
-   [SerializeField] float horizontal;
-    // Start is called before the first frame update
+    public SpriteRenderer renderer;
+
+   [SerializeField] float speedModifier = 3f;
+    float horizontal;
+    float vertical;
+
+
+    Vector2 movement;
+
     void Start()
     {
-        cc = GetComponent<CharacterController>();
+        rb = GetComponent<Rigidbody2D>();
+        renderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        movement();
+        animator.SetFloat("horizontal", movement.x);
+        animator.SetFloat("vertical", movement.y);
+        animator.SetFloat("speed", movement.sqrMagnitude);
+
+    }
+
+    private void FixedUpdate()
+    {
+        moving();
     }
 
 
-    void movement()
+    void moving()
     {
         horizontal = Input.GetAxis("Horizontal");
-        float vertical = Input.GetAxis("Vertical");
-        animator.SetFloat("horizontalSpeed", Mathf.Abs(horizontal));
-        if (horizontal!=0)
-            {
-            gameObject.transform.localScale = new Vector3(2 * -Mathf.Sign(horizontal), 2, 2);
-            }
+        vertical = Input.GetAxis("Vertical");
 
-        //if (horizontal < 0)
-        //{
-        //    //animator.SetBool("mirror", false);
-        //    gameObject.transform.localScale = new Vector3(2, 2, 2);
-        //    Debug.Log("normal");
+        movement = new Vector2(horizontal, vertical);
 
-        //}
-        //else if (horizontal > 0 )
-        //{
-        //   // animator.SetBool("mirror", true);
-        //    gameObject.transform.localScale = new Vector3(-2, 2, 2);
-        //    Debug.Log("reversed");
-        //}
+        rb.MovePosition(rb.position + movement * speedModifier*Time.fixedDeltaTime);
 
+        
 
-
-        cc.Move((Vector3)new Vector2(horizontal, vertical) * Time.deltaTime * speedModifier);
     }
+      
 }

@@ -1,0 +1,1294 @@
+fileFormatVersion: 2
+guid: bce15dd7d214a2643acd0099f2860d0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2411251025039799889
+    second: Stand10001
+  - first:
+      213: -7630532013464307754
+    second: Stand10002
+  - first:
+      213: -5059917076969588807
+    second: Stand10003
+  - first:
+      213: -2890557902471740981
+    second: Stand10004
+  - first:
+      213: 5949522784694457676
+    second: Stand10005
+  - first:
+      213: -6549370022226065130
+    second: Stand10006
+  - first:
+      213: 5378134216498714883
+    second: Stand10007
+  - first:
+      213: -2969533169748657933
+    second: Stand10008
+  - first:
+      213: -724349019807494690
+    second: Stand10009
+  - first:
+      213: 80172335069403030
+    second: Stand10010
+  - first:
+      213: -1375304690136120497
+    second: Stand10011
+  - first:
+      213: -5609469020753084795
+    second: Stand10012
+  - first:
+      213: 623861804516099968
+    second: Stand10013
+  - first:
+      213: -2357107311577498958
+    second: Stand10014
+  - first:
+      213: 8917914132303680236
+    second: Stand10015
+  - first:
+      213: -5778255584656835142
+    second: Stand10016
+  - first:
+      213: 7731201603182690367
+    second: Stand10017
+  - first:
+      213: -7707271541288255945
+    second: Stand10018
+  - first:
+      213: 4434394733051611245
+    second: Stand10019
+  - first:
+      213: 5305706296748385811
+    second: Stand10020
+  - first:
+      213: 7559309712359340239
+    second: Stand10021
+  - first:
+      213: 8855409381150902768
+    second: Stand10022
+  - first:
+      213: -3277614036154781174
+    second: Stand10023
+  - first:
+      213: 3270322478224119686
+    second: Stand10024
+  - first:
+      213: -5176788745425936415
+    second: Stand10025
+  - first:
+      213: 4367219391876722436
+    second: Stand10026
+  - first:
+      213: -5143956448884377093
+    second: Stand10027
+  - first:
+      213: -5256017969432603431
+    second: Stand10028
+  - first:
+      213: 6744416267872728928
+    second: Stand10029
+  - first:
+      213: 1384979026134946391
+    second: Stand10030
+  - first:
+      213: 1414590679031428068
+    second: Stand10031
+  - first:
+      213: 1168209609070264093
+    second: Stand10032
+  - first:
+      213: 5535766219460306960
+    second: Stand10033
+  - first:
+      213: -936983284191297672
+    second: Stand10034
+  - first:
+      213: -8770550697168254271
+    second: Stand10035
+  - first:
+      213: 6683224970594366612
+    second: Stand10036
+  - first:
+      213: 5223167550583937159
+    second: Stand10037
+  - first:
+      213: 3183087217464593303
+    second: Stand10038
+  - first:
+      213: -4247789136541231229
+    second: Stand10039
+  - first:
+      213: 5541757400735889414
+    second: Stand10040
+  - first:
+      213: 8078871560690967960
+    second: Stand10041
+  - first:
+      213: -1620462846948965858
+    second: Stand10042
+  - first:
+      213: -2098497012002403193
+    second: Stand10043
+  - first:
+      213: 298229904488815313
+    second: Stand10044
+  - first:
+      213: 1581531745891480036
+    second: Stand10045
+  - first:
+      213: 4396006907165850604
+    second: Stand10046
+  - first:
+      213: -2097218926446848714
+    second: Stand10047
+  - first:
+      213: -6097993678278455047
+    second: Stand10048
+  - first:
+      213: 2074897823558996958
+    second: Stand10049
+  - first:
+      213: 7448870994494908734
+    second: Stand10050
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stand10001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1563bcb280c767120800000000000000
+      internalID: 2411251025039799889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7b632ef87ea1690800000000000000
+      internalID: -7630532013464307754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 539
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b77b422a3097c9b0800000000000000
+      internalID: -5059917076969588807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 377
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1497c07eca2e7d0800000000000000
+      internalID: -2890557902471740981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c455ec46373f09250800000000000000
+      internalID: 5949522784694457676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6198f923aa6fb15a0800000000000000
+      internalID: -6549370022226065130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10007
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30997c84398f2aa40800000000000000
+      internalID: 5378134216498714883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10008
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8346cb0591ac6d0800000000000000
+      internalID: -2969533169748657933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10009
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddc8fc776892f5f0800000000000000
+      internalID: -724349019807494690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10010
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69710a06054dc1100800000000000000
+      internalID: 80172335069403030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10011
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f430286cbafe9ece0800000000000000
+      internalID: -1375304690136120497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10012
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e347755a92722b0800000000000000
+      internalID: -5609469020753084795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10013
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 378
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087cd1f710768a800800000000000000
+      internalID: 623861804516099968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10014
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 217
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba72fb736fd94fd0800000000000000
+      internalID: -2357107311577498958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10015
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 56
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2956977abc2cb70800000000000000
+      internalID: 8917914132303680236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10016
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 540
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdbc1709238fcfa0800000000000000
+      internalID: -5778255584656835142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10017
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 540
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3082ac75eeba4b60800000000000000
+      internalID: 7731201603182690367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10018
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e390a3e554a0590800000000000000
+      internalID: -7707271541288255945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10019
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d688769e3822a8d30800000000000000
+      internalID: 4434394733051611245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10020
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316ad3c14c7a1a940800000000000000
+      internalID: 5305706296748385811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10021
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 540
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8b658e12018e860800000000000000
+      internalID: 7559309712359340239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10022
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 540
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f949280aebb4ea70800000000000000
+      internalID: 8855409381150902768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10023
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 540
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02f82056639382d0800000000000000
+      internalID: -3277614036154781174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10024
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 539
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687168f87f4826d20800000000000000
+      internalID: 3270322478224119686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10025
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 379
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef95a7501a5828b0800000000000000
+      internalID: -5176788745425936415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10026
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 218
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f620df5ea7b9c30800000000000000
+      internalID: 4367219391876722436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10027
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 57
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9ba241ddefc98b0800000000000000
+      internalID: -5143956448884377093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10028
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 379
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d456ee118fde07b0800000000000000
+      internalID: -5256017969432603431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10029
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 218
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677be7bcdaf89d50800000000000000
+      internalID: 6744416267872728928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10030
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 57
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752d32a161f683310800000000000000
+      internalID: 1384979026134946391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10031
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 377
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e33f3e4ab2a1a310800000000000000
+      internalID: 1414590679031428068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10032
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 215
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fb4d33370563010800000000000000
+      internalID: 1168209609070264093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10033
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 53
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018e98efb0ef2dc40800000000000000
+      internalID: 5535766219460306960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10034
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f7c49daaa2ff2f0800000000000000
+      internalID: -936983284191297672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10035
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 379
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca4bbafb9eb84680800000000000000
+      internalID: -8770550697168254271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10036
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 379
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4943c4693b59fbc50800000000000000
+      internalID: 6683224970594366612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10037
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 379
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78817e6b63b6c7840800000000000000
+      internalID: 5223167550583937159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10038
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 539
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b4016a5f89c2c20800000000000000
+      internalID: 3183087217464593303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10039
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 218
+        width: 109
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38752bb3942dc05c0800000000000000
+      internalID: -4247789136541231229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10040
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 377
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60831469ef648ec40800000000000000
+      internalID: 5541757400735889414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10041
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 215
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895adf871eaed1070800000000000000
+      internalID: 8078871560690967960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10042
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 53
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1283e350a5f289e0800000000000000
+      internalID: -1620462846948965858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10043
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cc06df514a0e2e0800000000000000
+      internalID: -2098497012002403193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10044
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da547e9486832400800000000000000
+      internalID: 298229904488815313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10045
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e17dda5ebab2f510800000000000000
+      internalID: 1581531745891480036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10046
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb8c3bdf0c10d30800000000000000
+      internalID: 4396006907165850604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10047
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d8e87f7e25e2e0800000000000000
+      internalID: -2097218926446848714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10048
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 701
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f092a3ee039f5ba0800000000000000
+      internalID: -6097993678278455047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10049
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 539
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed31776c3948bcc10800000000000000
+      internalID: 2074897823558996958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand10050
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 863
+        width: 109
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39649424b4bf5760800000000000000
+      internalID: 7448870994494908734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
