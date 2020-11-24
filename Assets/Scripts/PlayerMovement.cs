@@ -3,47 +3,40 @@
 public class PlayerMovement : MonoBehaviour
 {
     Rigidbody2D rb;
-    public Animator animator;
-    public SpriteRenderer renderer;
+    Animator animator;
+    [SerializeField] Camera camera;
+    [SerializeField] bool followMouse=false;
+    [SerializeField] float speedModifier = 3f;
+   
+    Vector2 movement;
 
-   [SerializeField] float speedModifier = 3f;
     float horizontal;
     float vertical;
-
-
-    Vector2 movement;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        renderer = GetComponent<SpriteRenderer>();
+        animator = GetComponent<Animator>();
     }
-
-    // Update is called once per frame
     void Update()
     {
-        animator.SetFloat("horizontal", movement.x);
-        animator.SetFloat("vertical", movement.y);
-        animator.SetFloat("speed", movement.sqrMagnitude);
+        Vector2 mousePos = camera.ScreenToWorldPoint(Input.mousePosition);
+        animator.SetFloat("horizontal", mousePos.x);
+        animator.SetFloat("vertical", mousePos.y);
+        animator.SetFloat("speed", mousePos.sqrMagnitude);
 
     }
-
     private void FixedUpdate()
     {
         moving();
     }
-
-
     void moving()
     {
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
-
         movement = new Vector2(horizontal, vertical);
 
         rb.MovePosition(rb.position + movement * speedModifier*Time.fixedDeltaTime);
-
-        
 
     }
       
