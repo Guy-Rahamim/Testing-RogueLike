@@ -16,33 +16,35 @@ public class PlayerAttacking : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     private void FixedUpdate()
     {
-        Vector2 mousePos = camera.ScreenToWorldPoint(Input.mousePosition);
-        float direction = Vector2.Distance(mousePos, (Vector2)transform.position);
-        aimRay = new Ray2D(transform.position, mousePos);
-        Debug.DrawRay(transform.position, mousePos, Color.red);
+        // Vector2 mousePos = camera.ScreenToWorldPoint(Input.mousePosition);
+        //// aimRay = new Ray2D(transform.position, mousePos);
+        // Debug.DrawRay(transform.position, mousePos, Color.red);
+
+        Vector2 dir = Input.mousePosition - Camera.main.WorldToScreenPoint(transform.position);
+        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+        Debug.DrawRay((Vector3)transform.position, (Vector3)dir);
 
         if (Input.GetMouseButtonDown(0))
-            fireProjectile(mousePos);
+            fireProjectile(dir, angle);
     }
 
-    private void fireProjectile(Vector2 direction)
+    private void fireProjectile(Vector2 direction, float angle)
     {
-        makeProjectile(transform.position, direction);
+        makeProjectile(transform.position, direction, angle);
     }
 
-    private void makeProjectile(Vector2 origin, Vector2 direction)
+    private void makeProjectile(Vector2 origin, Vector2 direction, float angle)
     {
-        //Projectile projectile;
         Vector3 orig = (Vector3)origin;
-        Vector3 dir = (Vector3)direction;
-        orig.x += Mathf.Sign(dir.x) * 1;
-        orig.y += Mathf.Sign(dir.y) * 1;
+
       Projectile proj=  Instantiate(projectile, orig, Quaternion.identity);
+        proj.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+      
         Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), proj.GetComponent<CircleCollider2D>());
         proj.setDirection(direction);
     }

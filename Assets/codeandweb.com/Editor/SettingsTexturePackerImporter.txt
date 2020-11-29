@@ -1,20 +1,44 @@
 version: 2
 importPivots: 1
 tpsheetFileNames:
-- Assets/Character animations/new shamen/ShamanNew/Back1.tpsheet
-- Assets/Character animations/new shamen/ShamanNew/Fire1.tpsheet
-- Assets/Character animations/new shamen/ShamanNew/FrontWalk1.tpsheet
-- Assets/Character animations/new shamen/ShamanNew/Left1.tpsheet
-- Assets/Character animations/new shamen/ShamanNew/Right1.tpsheet
-- Assets/Character animations/new shamen/ShamanNew/Stand1.tpsheet
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Back1.tpsheet
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Fire1.tpsheet
+- Assets/Graphics/Character animations/new shamen/ShamanNew/FrontWalk1.tpsheet
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Left1.tpsheet
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Right1.tpsheet
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Stand1.tpsheet
+- Assets/Graphics/health bar/Life100.tpsheet
+- Assets/Graphics/health bar/Life20.tpsheet
+- Assets/Graphics/health bar/Life40.tpsheet
+- Assets/Graphics/health bar/Life60.tpsheet
+- Assets/Graphics/health bar/Life80.tpsheet
+- Assets/Graphics/projectile/FallBall.tpsheet
+- Assets/Graphics/projectile/SeedBall.tpsheet
+- Assets/Graphics/projectile/SeedBallRight.tpsheet
 textureFileNames:
-- Assets/Character animations/new shamen/ShamanNew/Back1.png
-- Assets/Character animations/new shamen/ShamanNew/Fire1.png
-- Assets/Character animations/new shamen/ShamanNew/FrontWalk1.png
-- Assets/Character animations/new shamen/ShamanNew/Left1.png
-- Assets/Character animations/new shamen/ShamanNew/Right1.png
-- Assets/Character animations/new shamen/ShamanNew/Stand1.png
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Back1.png
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Fire1.png
+- Assets/Graphics/Character animations/new shamen/ShamanNew/FrontWalk1.png
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Left1.png
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Right1.png
+- Assets/Graphics/Character animations/new shamen/ShamanNew/Stand1.png
+- Assets/Graphics/health bar/Life100.png
+- Assets/Graphics/health bar/Life20.png
+- Assets/Graphics/health bar/Life40.png
+- Assets/Graphics/health bar/Life60.png
+- Assets/Graphics/health bar/Life80.png
+- Assets/Graphics/projectile/FallBall.png
+- Assets/Graphics/projectile/SeedBall.png
+- Assets/Graphics/projectile/SeedBallRight.png
 normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - 
 - 
 - 

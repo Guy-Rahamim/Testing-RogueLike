@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4c12e61076b27221627880039f71db33:a593e9eb71281695b88a51341490ffd2:91f4da2b8ec8863da97f82eb8cc9f850$
+#
+:format=40300
+:texture=SeedBall.png
+:size=128x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+SeedBall0001;1;51;88;48; 0.5965909090909091;-0.02083333333333326; 0;0;0;0; 4;88;0;0;0;0;48;88;48; 2;1;2;3;0;1;3
+SeedBall0002;1;205;105;50; 0.5;0; 0;0;0;0; 6;105;32;105;17;59;0;0;0;0;50;50;50; 4;3;4;5;2;3;5;0;1;2;0;2;5
+SeedBall0003;1;153;99;50; 0.5303030303030303;0; 0;0;0;0; 6;92;42;99;11;43;0;0;0;0;49;52;50; 4;2;4;5;2;3;4;0;1;2;0;2;5
+SeedBall0004;1;101;93;50; 0.5645161290322581;0; 0;0;0;0; 5;93;2;10;0;0;14;0;49;74;50; 3;2;3;4;1;2;4;0;1;4

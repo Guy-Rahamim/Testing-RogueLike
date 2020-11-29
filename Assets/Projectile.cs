@@ -9,14 +9,13 @@ public class Projectile : MonoBehaviour
     Vector2 direction;
     Rigidbody2D rb;
 
-    float speed;
+    [SerializeField] float speed;
     float startTime;
 
     void Start()
     {
         startTime = Time.realtimeSinceStartup;
         rb = GetComponent<Rigidbody2D>();
-        speed = 3f;
     }
     void FixedUpdate()
     {
@@ -35,7 +34,7 @@ public class Projectile : MonoBehaviour
     {
         Vector2 signedDirection = new Vector2(Mathf.Sign(direction.x), Mathf.Sign(direction.y));
         Vector2 pos = (Vector2)transform.position;
-        rb.MovePosition((pos + direction * speed * Time.deltaTime));
+        rb.MovePosition(pos + direction.normalized * speed * Time.deltaTime);
     }
     public void setDirection(Vector2 direction)
     {

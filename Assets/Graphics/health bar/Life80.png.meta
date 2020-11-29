@@ -1,0 +1,1894 @@
+fileFormatVersion: 2
+guid: 424520ad5399bd949bcbd8fb6add7441
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6055818989155711761
+    second: Life800001
+  - first:
+      213: -6800069762176127915
+    second: Life800002
+  - first:
+      213: 796884764037116135
+    second: Life800003
+  - first:
+      213: 3915157779735111173
+    second: Life800004
+  - first:
+      213: 8977317882779006872
+    second: Life800005
+  - first:
+      213: -1247257903581690427
+    second: Life800006
+  - first:
+      213: 6413756108527132679
+    second: Life800007
+  - first:
+      213: -3898094042420234187
+    second: Life800008
+  - first:
+      213: 211223319908836535
+    second: Life800009
+  - first:
+      213: -3635584308719390708
+    second: Life800010
+  - first:
+      213: 2532010066348441295
+    second: Life800011
+  - first:
+      213: -1901152974560597859
+    second: Life800012
+  - first:
+      213: 3847049828959324461
+    second: Life800013
+  - first:
+      213: -6997473511896658293
+    second: Life800014
+  - first:
+      213: -1781036327238778094
+    second: Life800015
+  - first:
+      213: 1714082594532275
+    second: Life800016
+  - first:
+      213: -9059271128061288468
+    second: Life800017
+  - first:
+      213: -4439210878354567947
+    second: Life800018
+  - first:
+      213: 5693575335214835018
+    second: Life800019
+  - first:
+      213: 5927642915508629911
+    second: Life800020
+  - first:
+      213: -7889999468049800104
+    second: Life800021
+  - first:
+      213: -8300434735318418393
+    second: Life800022
+  - first:
+      213: 7832597398855799473
+    second: Life800023
+  - first:
+      213: 307884222948862570
+    second: Life800024
+  - first:
+      213: -6946203416408085763
+    second: Life800025
+  - first:
+      213: -5082930898575704815
+    second: Life800026
+  - first:
+      213: 5358661593466523823
+    second: Life800027
+  - first:
+      213: -3356428962366996790
+    second: Life800028
+  - first:
+      213: 202333326128271164
+    second: Life800029
+  - first:
+      213: -4412558500479598464
+    second: Life800030
+  - first:
+      213: -6364826677036127806
+    second: Life800031
+  - first:
+      213: 5515646849467397612
+    second: Life800032
+  - first:
+      213: 4401918029341609734
+    second: Life800033
+  - first:
+      213: 4018876210957728828
+    second: Life800034
+  - first:
+      213: 91044085681118331
+    second: Life800035
+  - first:
+      213: -8809116215264385584
+    second: Life800036
+  - first:
+      213: -5884832217956640085
+    second: Life800037
+  - first:
+      213: -5963971775218010037
+    second: Life800038
+  - first:
+      213: -7817310959362443924
+    second: Life800039
+  - first:
+      213: 1912861516410641382
+    second: Life800040
+  - first:
+      213: 4290691003908142735
+    second: Life800041
+  - first:
+      213: 4984739133876762070
+    second: Life800042
+  - first:
+      213: 4698134483722080904
+    second: Life800043
+  - first:
+      213: -170702535790648728
+    second: Life800044
+  - first:
+      213: -6917224394314136657
+    second: Life800045
+  - first:
+      213: 5860473304961229828
+    second: Life800046
+  - first:
+      213: -6000577069190876238
+    second: Life800047
+  - first:
+      213: -2724074948134341744
+    second: Life800048
+  - first:
+      213: 2788363756868770415
+    second: Life800049
+  - first:
+      213: 4093532359592791949
+    second: Life800050
+  - first:
+      213: -7962687144837674827
+    second: Life800051
+  - first:
+      213: 3119049936153186126
+    second: Life800052
+  - first:
+      213: -380098654926045903
+    second: Life800053
+  - first:
+      213: -2376325825703006254
+    second: Life800054
+  - first:
+      213: 5149166455867621518
+    second: Life800055
+  - first:
+      213: 147804968971839709
+    second: Life800056
+  - first:
+      213: -5936151456455819073
+    second: Life800057
+  - first:
+      213: -7266787724268981027
+    second: Life800058
+  - first:
+      213: -1424889248965763449
+    second: Life800059
+  - first:
+      213: 5827521159647346299
+    second: Life800060
+  - first:
+      213: -4463865912819436538
+    second: Life800061
+  - first:
+      213: 2546121455929632025
+    second: Life800062
+  - first:
+      213: -418253732737492021
+    second: Life800063
+  - first:
+      213: -7180919732390562232
+    second: Life800064
+  - first:
+      213: -79658566177365365
+    second: Life800065
+  - first:
+      213: -7787085100566861838
+    second: Life800066
+  - first:
+      213: -6476763585236739731
+    second: Life800067
+  - first:
+      213: -2469491560574877795
+    second: Life800068
+  - first:
+      213: -1711050028817102696
+    second: Life800069
+  - first:
+      213: -7610475311102393507
+    second: Life800070
+  - first:
+      213: -2183018582054094813
+    second: Life800071
+  - first:
+      213: 346034988368421384
+    second: Life800072
+  - first:
+      213: 7942606069411824279
+    second: Life800073
+  - first:
+      213: 6200966981367566095
+    second: Life800074
+  - first:
+      213: -8169081125852835748
+    second: Life800075
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Life800001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe40f47e6b865fba0800000000000000
+      internalID: -6055818989155711761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ced91649c41a1a0800000000000000
+      internalID: -6800069762176127915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07a57887a1f0b00800000000000000
+      internalID: 796884764037116135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506e7bcd14f655630800000000000000
+      internalID: 3915157779735111173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897fdceec07d59c70800000000000000
+      internalID: 8977317882779006872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c507b18b89d0bee0800000000000000
+      internalID: -1247257903581690427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70060ccf23d320950800000000000000
+      internalID: 6413756108527132679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800008
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538b9741f1037e9c0800000000000000
+      internalID: -3898094042420234187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800009
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e1778d7a6ee200800000000000000
+      internalID: 211223319908836535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800010
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00fbc7555fcb8dc0800000000000000
+      internalID: -3635584308719390708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800011
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce796c7db1832320800000000000000
+      internalID: 2532010066348441295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800012
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9863af317fbd95e0800000000000000
+      internalID: -1901152974560597859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800013
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d290958df67736530800000000000000
+      internalID: 3847049828959324461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800014
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ec1364aeaf3ee90800000000000000
+      internalID: -6997473511896658293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800015
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213cdde85ec7847e0800000000000000
+      internalID: -1781036327238778094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800016
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bba924f2f6160000800000000000000
+      internalID: 1714082594532275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800017
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef54f738e0074280800000000000000
+      internalID: -9059271128061288468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800018
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc40a0e931c462c0800000000000000
+      internalID: -4439210878354567947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800019
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45e76df994a30f40800000000000000
+      internalID: 5693575335214835018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800020
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791b04e53d7334250800000000000000
+      internalID: 5927642915508629911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800021
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854eedc6947118290800000000000000
+      internalID: -7889999468049800104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800022
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c3808f59eeecc80800000000000000
+      internalID: -8300434735318418393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800023
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 886
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2d27bd5d9f2bc60800000000000000
+      internalID: 7832597398855799473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800024
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a60dcc113d54400800000000000000
+      internalID: 307884222948862570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800025
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa246b9bc02a9f90800000000000000
+      internalID: -6946203416408085763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800026
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11db98c374dc579b0800000000000000
+      internalID: -5082930898575704815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800027
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d91ee35acd5a40800000000000000
+      internalID: 5358661593466523823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800028
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace384054a19b61d0800000000000000
+      internalID: -3356428962366996790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800029
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f491e8615dec200800000000000000
+      internalID: 202333326128271164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800030
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080884c2c6173c2c0800000000000000
+      internalID: -4412558500479598464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800031
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9e45a0cd79ba7a0800000000000000
+      internalID: -6364826677036127806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800032
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b10126938b8c40800000000000000
+      internalID: 5515646849467397612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800033
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f4b451021c61d30800000000000000
+      internalID: 4401918029341609734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800034
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c3766fe9ae5c730800000000000000
+      internalID: 4018876210957728828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800035
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c5ce11d14734100800000000000000
+      internalID: 91044085681118331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800036
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d56804997bbfb580800000000000000
+      internalID: -8809116215264385584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800037
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 747
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa9be5e640e45ea0800000000000000
+      internalID: -5884832217956640085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800038
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48bca7d447bb3da0800000000000000
+      internalID: -5963971775218010037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800039
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65fe60b915538390800000000000000
+      internalID: -7817310959362443924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800040
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebdb261a69db8a10800000000000000
+      internalID: 1912861516410641382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800041
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86b8e82cb89b8b30800000000000000
+      internalID: 4290691003908142735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800042
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d576bcf4d95d2540800000000000000
+      internalID: 4984739133876762070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800043
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8829441db60233140800000000000000
+      internalID: 4698134483722080904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800044
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862a0f7b2fa81adf0800000000000000
+      internalID: -170702535790648728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800045
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa34d39ff051100a0800000000000000
+      internalID: -6917224394314136657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800046
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404afd5bb65945150800000000000000
+      internalID: 5860473304961229828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800047
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3f58fa2faa9bca0800000000000000
+      internalID: -6000577069190876238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800048
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09379e67444223ad0800000000000000
+      internalID: -2724074948134341744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800049
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a9cb0401242b620800000000000000
+      internalID: 2788363756868770415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800050
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f481a1ef52fc830800000000000000
+      internalID: 4093532359592791949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800051
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8816ada3ade7190800000000000000
+      internalID: -7962687144837674827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800052
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f8d193467194b20800000000000000
+      internalID: 3119049936153186126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800053
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 608
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d7785894e99baf0800000000000000
+      internalID: -380098654926045903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800054
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfa2687048950fd0800000000000000
+      internalID: -2376325825703006254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800055
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c8533c93857740800000000000000
+      internalID: 5149166455867621518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800056
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8aa9f06db1d0200800000000000000
+      internalID: 147804968971839709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800057
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0880193bd8e9da0800000000000000
+      internalID: -5936151456455819073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800058
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd437ccd01f272b90800000000000000
+      internalID: -7266787724268981027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800059
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e5f1707c6c93ce0800000000000000
+      internalID: -1424889248965763449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800060
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e3ad18e938fd050800000000000000
+      internalID: 5827521159647346299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800061
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6043c655a992d02c0800000000000000
+      internalID: -4463865912819436538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800062
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915afa769f3a55320800000000000000
+      internalID: 2546121455929632025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800063
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb53323270123af0800000000000000
+      internalID: -418253732737492021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800064
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846744eac8f385c90800000000000000
+      internalID: -7180919732390562232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800065
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 469
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b826ea3c4fef4eef0800000000000000
+      internalID: -79658566177365365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800066
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7a9f8db57bee390800000000000000
+      internalID: -7787085100566861838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800067
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6957c7a5d9ed16a0800000000000000
+      internalID: -6476763585236739731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800068
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffb14728a9abdd0800000000000000
+      internalID: -2469491560574877795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800069
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8984f6770112148e0800000000000000
+      internalID: -1711050028817102696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800070
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d538cddc609226690800000000000000
+      internalID: -7610475311102393507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800071
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 330
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328b69e6a2c54b1e0800000000000000
+      internalID: -2183018582054094813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800072
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8026e811dfc5dc400800000000000000
+      internalID: 346034988368421384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800073
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792472e632ec93e60800000000000000
+      internalID: 7942606069411824279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800074
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 191
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f075c8d924e0650800000000000000
+      internalID: 6200966981367566095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Life800075
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 52
+        width: 84
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5091386ff791ae80800000000000000
+      internalID: -8169081125852835748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
