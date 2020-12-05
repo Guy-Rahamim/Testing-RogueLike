@@ -157,7 +157,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 0576201ae91654c4984a8f7c36ab43cf, type: 3}
@@ -387,7 +387,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1020017345
 BoxCollider2D:
@@ -516,6 +516,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 2662091388990756760, guid: 092d2e4d101143a438eb786f22b7f668, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2662091388990756762, guid: 092d2e4d101143a438eb786f22b7f668, type: 3}
       propertyPath: camera
       value: 
@@ -550,7 +554,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2662091388990756763, guid: 092d2e4d101143a438eb786f22b7f668, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2662091388990756763, guid: 092d2e4d101143a438eb786f22b7f668, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -574,3 +578,60 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 092d2e4d101143a438eb786f22b7f668, type: 3}
+--- !u!1001 &3900557957413983349
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.80793184
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3810807244202760954, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4925242094065758970, guid: bb5f9194175482b44a3150068cd2a272, type: 3}
+      propertyPath: m_Name
+      value: Projectile Manager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb5f9194175482b44a3150068cd2a272, type: 3}

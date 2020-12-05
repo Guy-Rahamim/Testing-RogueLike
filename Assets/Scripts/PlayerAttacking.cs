@@ -7,17 +7,6 @@ public class PlayerAttacking : MonoBehaviour
     Ray2D aimRay;
     [SerializeField] Camera camera;
     [SerializeField] Projectile projectile;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 
     private void FixedUpdate()
     {
@@ -27,7 +16,7 @@ public class PlayerAttacking : MonoBehaviour
 
         Vector2 dir = Input.mousePosition - Camera.main.WorldToScreenPoint(transform.position);
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
-        Debug.DrawRay((Vector3)transform.position, (Vector3)dir);
+        Debug.DrawRay((Vector3)transform.position, (Vector3)dir,Color.red);
 
         if (Input.GetMouseButtonDown(0))
             fireProjectile(dir, angle);

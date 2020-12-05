@@ -12,6 +12,7 @@ tpsheetFileNames:
 - Assets/Graphics/health bar/Life40.tpsheet
 - Assets/Graphics/health bar/Life60.tpsheet
 - Assets/Graphics/health bar/Life80.tpsheet
+- Assets/Graphics/projectile/BallToPickUp.tpsheet
 - Assets/Graphics/projectile/FallBall.tpsheet
 - Assets/Graphics/projectile/SeedBall.tpsheet
 - Assets/Graphics/projectile/SeedBallRight.tpsheet
@@ -27,10 +28,12 @@ textureFileNames:
 - Assets/Graphics/health bar/Life40.png
 - Assets/Graphics/health bar/Life60.png
 - Assets/Graphics/health bar/Life80.png
+- Assets/Graphics/projectile/BallToPickUp.png
 - Assets/Graphics/projectile/FallBall.png
 - Assets/Graphics/projectile/SeedBall.png
 - Assets/Graphics/projectile/SeedBallRight.png
 normalmapFileNames:
+- 
 - 
 - 
 - 
