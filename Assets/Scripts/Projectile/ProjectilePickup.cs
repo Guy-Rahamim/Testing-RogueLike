@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ProjectilePickup : MonoBehaviour
+public class ProjectilePickup : MonoBehaviour, Ipickupable
 {
     // Start is called before the first frame update
     void Start()
@@ -24,4 +24,8 @@ public class ProjectilePickup : MonoBehaviour
         }
     }
 
+    void Ipickupable.pickedUp()
+    {
+        Destroy(gameObject);
+    }
 }

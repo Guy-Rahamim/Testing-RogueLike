@@ -16,6 +16,8 @@ tpsheetFileNames:
 - Assets/Graphics/projectile/FallBall.tpsheet
 - Assets/Graphics/projectile/SeedBall.tpsheet
 - Assets/Graphics/projectile/SeedBallRight.tpsheet
+- Assets/Graphics/Trash Bag/test2.tpsheet
+- Assets/Graphics/Trash Bag/trash.tpsheet
 textureFileNames:
 - Assets/Graphics/Character animations/new shamen/ShamanNew/Back1.png
 - Assets/Graphics/Character animations/new shamen/ShamanNew/Fire1.png
@@ -32,7 +34,11 @@ textureFileNames:
 - Assets/Graphics/projectile/FallBall.png
 - Assets/Graphics/projectile/SeedBall.png
 - Assets/Graphics/projectile/SeedBallRight.png
+- Assets/Graphics/Trash Bag/test2.png
+- Assets/Graphics/Trash Bag/test 1.png
 normalmapFileNames:
+- 
+- 
 - 
 - 
 - 

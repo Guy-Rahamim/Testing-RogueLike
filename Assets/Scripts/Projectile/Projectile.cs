@@ -47,9 +47,16 @@ public class Projectile : MonoBehaviour
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
+        Ivulnerable other = collision.gameObject.GetComponent<Ivulnerable>();
+        if (other!=null)
+        { 
+            other.hurt();
+        }
         //animator.SetBool("colided", true);
         projManager.instantiateProjectilePickup(transform.position);
         Destroy(gameObject);
+
+
     }
 
 
