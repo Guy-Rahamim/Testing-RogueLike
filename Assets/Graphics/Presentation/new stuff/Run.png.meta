@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: f2780b5b4ab30ae48a40231364148e02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4077067963786994710
+    second: Chapi - run Export_00000
+  - first:
+      213: -5383014276934473473
+    second: Chapi - run Export_00001
+  - first:
+      213: 9120355463238353095
+    second: Chapi - run Export_00002
+  - first:
+      213: 6275550010179466963
+    second: Chapi - run Export_00003
+  - first:
+      213: 5631799677976316620
+    second: Chapi - run Export_00004
+  - first:
+      213: -7845953856755686818
+    second: Chapi - run Export_00005
+  - first:
+      213: -6480694955466586294
+    second: Chapi - run Export_00006
+  - first:
+      213: 9110582073196416954
+    second: Chapi - run Export_00007
+  - first:
+      213: -7911293378884197613
+    second: Chapi - run Export_00008
+  - first:
+      213: 7854395955252654015
+    second: Chapi - run Export_00009
+  - first:
+      213: 8847017664699138772
+    second: Chapi - run Export_00010
+  - first:
+      213: -615975232322768559
+    second: Chapi - run Export_00011
+  - first:
+      213: 7535326244099746731
+    second: Chapi - run Export_00012
+  - first:
+      213: -8952475842688414602
+    second: Chapi - run Export_00013
+  - first:
+      213: -6164515753420633542
+    second: Chapi - run Export_00014
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chapi - run Export_00000
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1293
+        width: 391
+        height: 376
+      alignment: 9
+      pivot: {x: 0.52557546, y: -0.07446808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61426aa36b7a49830800000000000000
+      internalID: 4077067963786994710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00001
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 591
+        width: 387
+        height: 373
+      alignment: 9
+      pivot: {x: 0.52067184, y: -0.06702413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8e67a1901bb45b0800000000000000
+      internalID: -5383014276934473473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00002
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1312
+        width: 399
+        height: 367
+      alignment: 9
+      pivot: {x: 0.5200501, y: -0.07901908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c08d9bd8f2029e70800000000000000
+      internalID: 9120355463238353095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00003
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1681
+        width: 401
+        height: 366
+      alignment: 9
+      pivot: {x: 0.5124688, y: -0.06557377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d632f62c7b371750800000000000000
+      internalID: 6275550010179466963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00004
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1675
+        width: 410
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5134146, y: -0.029569892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca00f3f7fb282e40800000000000000
+      internalID: 5631799677976316620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00005
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1688
+        width: 418
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5179426, y: -0.044568244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52a8f379829d1390800000000000000
+      internalID: -7845953856755686818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1673
+        width: 420
+        height: 374
+      alignment: 9
+      pivot: {x: 0.51785713, y: -0.026737968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a478fb13642ff06a0800000000000000
+      internalID: -6480694955466586294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00007
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1326
+        width: 406
+        height: 360
+      alignment: 9
+      pivot: {x: 0.50615764, y: -0.06111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf0ae9202a4f6e70800000000000000
+      internalID: 9110582073196416954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1324
+        width: 406
+        height: 347
+      alignment: 9
+      pivot: {x: 0.49137932, y: -0.07204611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31325b57690753290800000000000000
+      internalID: -7911293378884197613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00009
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1325
+        width: 396
+        height: 348
+      alignment: 9
+      pivot: {x: 0.49368685, y: -0.057471264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6916c18b600d60800000000000000
+      internalID: 7854395955252654015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00010
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 966
+        width: 395
+        height: 358
+      alignment: 9
+      pivot: {x: 0.49240506, y: -0.033519555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d28ff941bbe6ca70800000000000000
+      internalID: 8847017664699138772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 960
+        width: 392
+        height: 362
+      alignment: 9
+      pivot: {x: 0.50382656, y: -0.03038674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15176fe2acd9377f0800000000000000
+      internalID: -615975232322768559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00012
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1671
+        width: 389
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5025707, y: -0.015957447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6e3e8b4bd29860800000000000000
+      internalID: 7535326244099746731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00013
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 943
+        width: 390
+        height: 380
+      alignment: 9
+      pivot: {x: 0.51666665, y: -0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c8a4047aa62c380800000000000000
+      internalID: -8952475842688414602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chapi - run Export_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 580
+        width: 382
+        height: 378
+      alignment: 9
+      pivot: {x: 0.5353403, y: -0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a4011559d337aa0800000000000000
+      internalID: -6164515753420633542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

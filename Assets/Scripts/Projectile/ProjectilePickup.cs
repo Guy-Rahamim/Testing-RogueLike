@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+
 using UnityEngine;
 
 public class ProjectilePickup : MonoBehaviour, Ipickupable
@@ -20,12 +21,16 @@ public class ProjectilePickup : MonoBehaviour, Ipickupable
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Destroy(gameObject);
+           pickedUp();
         }
     }
 
-    void Ipickupable.pickedUp()
+    public void pickedUp()
     {
+        ProjectileManager.increaseAmmoCount();
+        Debug.Log("picked up");
         Destroy(gameObject);
     }
+
+
 }

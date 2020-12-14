@@ -29,12 +29,16 @@ public class PlayerAttacking : MonoBehaviour
 
     private void makeProjectile(Vector2 origin, Vector2 direction, float angle)
     {
-        Vector3 orig = (Vector3)origin;
+        if (ProjectileManager.decreaseAmmoCount())
+        {
+            Vector3 orig = (Vector3)origin;
 
-      Projectile proj=  Instantiate(projectile, orig, Quaternion.identity);
-        proj.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-      
-        Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), proj.GetComponent<CircleCollider2D>());
-        proj.setDirection(direction);
+            Projectile proj = Instantiate(projectile, orig, Quaternion.identity);
+            proj.transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+
+            Physics2D.IgnoreCollision(gameObject.GetComponent<BoxCollider2D>(), proj.GetComponent<CircleCollider2D>());
+            proj.setDirection(direction);
+        }
+ 
     }
 }

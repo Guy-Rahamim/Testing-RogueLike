@@ -12,6 +12,9 @@ tpsheetFileNames:
 - Assets/Graphics/health bar/Life40.tpsheet
 - Assets/Graphics/health bar/Life60.tpsheet
 - Assets/Graphics/health bar/Life80.tpsheet
+- Assets/Graphics/Presentation/new stuff/Idle.tpsheet
+- Assets/Graphics/Presentation/new stuff/Run.tpsheet
+- Assets/Graphics/Presentation/new stuff/VillanJelly.tpsheet
 - Assets/Graphics/projectile/BallToPickUp.tpsheet
 - Assets/Graphics/projectile/FallBall.tpsheet
 - Assets/Graphics/projectile/SeedBall.tpsheet
@@ -30,6 +33,9 @@ textureFileNames:
 - Assets/Graphics/health bar/Life40.png
 - Assets/Graphics/health bar/Life60.png
 - Assets/Graphics/health bar/Life80.png
+- Assets/Graphics/Presentation/new stuff/Idle.png
+- Assets/Graphics/Presentation/new stuff/Run.png
+- Assets/Graphics/Presentation/new stuff/VillanJelly.png
 - Assets/Graphics/projectile/BallToPickUp.png
 - Assets/Graphics/projectile/FallBall.png
 - Assets/Graphics/projectile/SeedBall.png
@@ -37,6 +43,9 @@ textureFileNames:
 - Assets/Graphics/Trash Bag/test2.png
 - Assets/Graphics/Trash Bag/test 1.png
 normalmapFileNames:
+- 
+- 
+- 
 - 
 - 
 - 

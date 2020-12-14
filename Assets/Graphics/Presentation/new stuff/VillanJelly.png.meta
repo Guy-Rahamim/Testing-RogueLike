@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 1d74ed43196517c4a80505a21b70de29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5094681002922687800
+    second: Villian Jelly Move Export_00000
+  - first:
+      213: 5492476482085836485
+    second: Villian Jelly Move Export_00001
+  - first:
+      213: 6812949863257671720
+    second: Villian Jelly Move Export_00002
+  - first:
+      213: -7041573680595624481
+    second: Villian Jelly Move Export_00003
+  - first:
+      213: 9171411590447056896
+    second: Villian Jelly Move Export_00004
+  - first:
+      213: 6035979347003960458
+    second: Villian Jelly Move Export_00005
+  - first:
+      213: 908306551669558562
+    second: Villian Jelly Move Export_00006
+  - first:
+      213: 672159235554263472
+    second: Villian Jelly Move Export_00007
+  - first:
+      213: 8839388655155993593
+    second: Villian Jelly Move Export_00008
+  - first:
+      213: 7191790850774585016
+    second: Villian Jelly Move Export_00009
+  - first:
+      213: -6993212751152085936
+    second: Villian Jelly Move Export_00010
+  - first:
+      213: -3495864784093298808
+    second: Villian Jelly Move Export_00011
+  - first:
+      213: 5364570976322380240
+    second: Villian Jelly Move Export_00012
+  - first:
+      213: -6576517518836197697
+    second: Villian Jelly Move Export_00013
+  - first:
+      213: 6345484004891242151
+    second: Villian Jelly Move Export_00014
+  - first:
+      213: -722857003513886900
+    second: Villian Jelly Move Export_00015
+  - first:
+      213: -8007413855208195464
+    second: Villian Jelly Move Export_00016
+  - first:
+      213: 6888335651525246120
+    second: Villian Jelly Move Export_00017
+  - first:
+      213: 4131199617063190850
+    second: Villian Jelly Move Export_00018
+  - first:
+      213: 6146605178005705174
+    second: Villian Jelly Move Export_00019
+  - first:
+      213: -2862984354508994719
+    second: Villian Jelly Move Export_00020
+  - first:
+      213: -487960541243988729
+    second: Villian Jelly Move Export_00021
+  - first:
+      213: 7995946147926973560
+    second: Villian Jelly Move Export_00022
+  - first:
+      213: 6809978658336887568
+    second: Villian Jelly Move Export_00023
+  - first:
+      213: 2648826094714263108
+    second: Villian Jelly Move Export_00024
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00000
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 702
+        width: 321
+        height: 271
+      alignment: 9
+      pivot: {x: 0.58878505, y: -0.15867159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ccd0ee9e0c49b0800000000000000
+      internalID: -5094681002922687800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00001
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 682
+        width: 315
+        height: 274
+      alignment: 9
+      pivot: {x: 0.60952383, y: -0.16423358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d9e39242393c40800000000000000
+      internalID: 5492476482085836485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 694
+        width: 325
+        height: 271
+      alignment: 9
+      pivot: {x: 0.59076923, y: -0.16605166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280508ddc57c8e50800000000000000
+      internalID: 6812949863257671720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00003
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 975
+        width: 328
+        height: 264
+      alignment: 9
+      pivot: {x: 0.5762195, y: -0.17045455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd9b5c9b0e474e90800000000000000
+      internalID: -7041573680595624481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00004
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 956
+        width: 327
+        height: 276
+      alignment: 9
+      pivot: {x: 0.56880736, y: -0.1557971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0084f71df36674f70800000000000000
+      internalID: 9171411590447056896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1237
+        width: 335
+        height: 264
+      alignment: 9
+      pivot: {x: 0.54626864, y: -0.17045455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ce3c17c3b14c350800000000000000
+      internalID: 6035979347003960458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00006
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1229
+        width: 331
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5407855, y: -0.16479401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d8c6f0ff3fa9c00800000000000000
+      internalID: 908306551669558562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00007
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1510
+        width: 342
+        height: 265
+      alignment: 9
+      pivot: {x: 0.51754385, y: -0.16603774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1c5b3734df35900800000000000000
+      internalID: 672159235554263472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00008
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1515
+        width: 347
+        height: 267
+      alignment: 9
+      pivot: {x: 0.50144094, y: -0.16479401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd0361621dbaa70800000000000000
+      internalID: 8839388655155993593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00009
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1784
+        width: 348
+        height: 263
+      alignment: 9
+      pivot: {x: 0.49137932, y: -0.16730037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec25fccaf5ec360800000000000000
+      internalID: 7191790850774585016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00010
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1777
+        width: 350
+        height: 270
+      alignment: 9
+      pivot: {x: 0.48857144, y: -0.16296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05409d0fd0e13fe90800000000000000
+      internalID: -6993212751152085936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00011
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1777
+        width: 350
+        height: 270
+      alignment: 9
+      pivot: {x: 0.48, y: -0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f325130813c7fc0800000000000000
+      internalID: -3495864784093298808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1772
+        width: 352
+        height: 275
+      alignment: 9
+      pivot: {x: 0.48863637, y: -0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e01851e8c27a40800000000000000
+      internalID: 5364570976322380240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00013
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1772
+        width: 350
+        height: 275
+      alignment: 9
+      pivot: {x: 0.49142858, y: -0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb692a619248bb4a0800000000000000
+      internalID: -6576517518836197697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00014
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1241
+        width: 340
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5, y: -0.16479401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae27772510bf0850800000000000000
+      internalID: 6345484004891242151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00015
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1507
+        width: 345
+        height: 268
+      alignment: 9
+      pivot: {x: 0.49275362, y: -0.15671642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c62a9265e7f5f0800000000000000
+      internalID: -722857003513886900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1503
+        width: 337
+        height: 267
+      alignment: 9
+      pivot: {x: 0.52522254, y: -0.16479401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a36c61683ffd090800000000000000
+      internalID: -8007413855208195464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00017
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1238
+        width: 341
+        height: 275
+      alignment: 9
+      pivot: {x: 0.52492666, y: -0.16363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac32d277c8489f50800000000000000
+      internalID: 6888335651525246120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00018
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1234
+        width: 332
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5391566, y: -0.16236162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410847e928f45930800000000000000
+      internalID: 4131199617063190850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 967
+        width: 330
+        height: 268
+      alignment: 9
+      pivot: {x: 0.55151516, y: -0.16044776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d15b91e7d02d4550800000000000000
+      internalID: 6146605178005705174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00020
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1498
+        width: 335
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5671642, y: -0.15808824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1678df7f5e2a448d0800000000000000
+      internalID: -2862984354508994719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00021
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 956
+        width: 327
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5810397, y: -0.16974169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705aeba197a6a39f0800000000000000
+      internalID: -487960541243988729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00022
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 958
+        width: 323
+        height: 278
+      alignment: 9
+      pivot: {x: 0.5882353, y: -0.15467626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c175e38ae47fe60800000000000000
+      internalID: 7995946147926973560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00023
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 964
+        width: 317
+        height: 272
+      alignment: 9
+      pivot: {x: 0.60567826, y: -0.16544117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013592a4287e18e50800000000000000
+      internalID: 6809978658336887568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villian Jelly Move Export_00024
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 694
+        width: 317
+        height: 268
+      alignment: 9
+      pivot: {x: 0.6025237, y: -0.16791044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4469a3f8c4582c420800000000000000
+      internalID: 2648826094714263108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

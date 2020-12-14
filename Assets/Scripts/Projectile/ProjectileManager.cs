@@ -1,23 +1,24 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class ProjectileManager : MonoBehaviour
 {
     [SerializeField] public float speed;
     [SerializeField] public float lifeTime;
-    [SerializeField] private int currentAmmoCount;
-    [SerializeField] public int maxAmmoCount;
+    [SerializeField] public static int maxAmmoCount=5;
+    [SerializeField] private static int currentAmmoCount=maxAmmoCount;
+    private static TextMeshProUGUI ammoText;
 
     [SerializeField] ProjectilePickup pickup;
 
-    // Start is called before the first frame update
     void Start()
     {
+        ammoText = GetComponentInChildren<TextMeshProUGUI>();    
         currentAmmoCount = 5;
     }
 
-    // Update is called once per frame
     void Update()
     {
 
@@ -38,25 +39,37 @@ public class ProjectileManager : MonoBehaviour
        ProjectilePickup proj= Instantiate(pickup, position, Quaternion.identity);
     }
 
-    public bool decreaseAmmoCount()
+    public static bool decreaseAmmoCount()
     {
         if (currentAmmoCount-1< 0)
         {
+            Debug.Log("No ammo left!");
             currentAmmoCount = 0;
+            updateStats();
             return false;
         }
 
         currentAmmoCount--;
+        updateStats();
+        Debug.Log("decreased successfully: " + currentAmmoCount + "left.");
         return true;
 
     }
-
-    public void increaseAmmoCount()
+    public static void increaseAmmoCount()
     {
         currentAmmoCount++;
+
         if (currentAmmoCount>maxAmmoCount)
         {
+            Debug.Log("Ammo full.");
             currentAmmoCount = maxAmmoCount;
         }
+        else { Debug.Log("increased successfully: " + currentAmmoCount + "left."); }
+
+        updateStats();
+    }
+    public static void updateStats()
+    {
+        ammoText.text = "Ammo Left: " + currentAmmoCount;
     }
 }

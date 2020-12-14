@@ -5,11 +5,11 @@
 
 public interface IHitter
 {
-    void hit(Ivulnerable other);
+        void hit(Ivulnerable other);
 }
 
 
 public interface Ipickupable
 {
-    void pickedUp();
+     void pickedUp();
 }

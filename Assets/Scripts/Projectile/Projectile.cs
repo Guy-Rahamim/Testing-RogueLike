@@ -44,7 +44,6 @@ public class Projectile : MonoBehaviour
     {
         this.direction = direction;
     }
-
     public void OnCollisionEnter2D(Collision2D collision)
     {
         Ivulnerable other = collision.gameObject.GetComponent<Ivulnerable>();
@@ -52,13 +51,18 @@ public class Projectile : MonoBehaviour
         { 
             other.hurt();
         }
-        //animator.SetBool("colided", true);
         projManager.instantiateProjectilePickup(transform.position);
         Destroy(gameObject);
-
-
     }
-
-
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Ivulnerable other = collision.gameObject.GetComponent<Ivulnerable>();
+        if (other != null)
+        {
+            other.hurt();
+        }
+        projManager.instantiateProjectilePickup(transform.position);
+        Destroy(gameObject);
+    }
 
 }
