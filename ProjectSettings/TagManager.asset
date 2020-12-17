@@ -39,6 +39,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: HyperBack
+    uniqueID: 143460885
+    locked: 0
+  - name: Back
+    uniqueID: 685423493
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 3552376397
     locked: 0
